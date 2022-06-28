@@ -1,0 +1,12 @@
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\bin\Debug\Traverse Advance Calculator.exe.config
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\bin\Debug\Traverse Advance Calculator.exe
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\bin\Debug\Traverse Advance Calculator.pdb
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\bin\Debug\Traverse Advance Calculator.xml
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\obj\Debug\Traverse Advance Calculator.vbproj.AssemblyReference.cache
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\obj\Debug\Traverse_Advance_Calculator.Form1.resources
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\obj\Debug\Traverse_Advance_Calculator.Resources.resources
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\obj\Debug\Traverse Advance Calculator.vbproj.GenerateResource.cache
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\obj\Debug\Traverse Advance Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\obj\Debug\Traverse Advance Calculator.exe
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\obj\Debug\Traverse Advance Calculator.xml
+C:\Users\ABIONA OLUSHOLA\source\repos\Traverse Advance Calculator\Traverse Advance Calculator\obj\Debug\Traverse Advance Calculator.pdb
